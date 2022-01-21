@@ -1,0 +1,10 @@
+.main-container {
+    background-color: black;
+    size: 100%;
+}
+
+#container {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
