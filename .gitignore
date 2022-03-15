@@ -11,3 +11,6 @@ themes/classic/views/
 # ignoring ./idea files
 .idea/
 
+# ignoring MacOS related directories
+.DS_Store
+
